@@ -2,7 +2,7 @@
 theme = "hugo-icon"
 baseURL = "https://www.example.com/"
 languageCode = "en-AU"
-title = "Fast Page Load"
+title = "My Awesome Title"
 
 # Metadata
 [params]
@@ -12,8 +12,8 @@ title = "Fast Page Load"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Fast Page Load"
-  description = "Speed up your web browsing and get to where you're going faster. [Get the Chrome Plugin](https://chrome.google.com/webstore/detail/fast-page-load/bknaplcbimdibpjbabccgddcleoealam?hl=en)"
+  title = "Create awesome things for better web"
+  description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
 
 # Navigation section
 [params.nav]

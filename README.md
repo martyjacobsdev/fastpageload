@@ -1,3 +1,0 @@
-# FastPageLoad
-# fastpageload
-# fastpageload
